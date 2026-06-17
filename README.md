@@ -41,4 +41,5 @@ Each lab note follows a consistent structure:
 - **Takeaways:** Key security lessons and mitigation strategies.
 
 ---
-*Generated with care to reflect a human-like, analytical approach to web security.*
+
+
